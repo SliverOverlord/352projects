@@ -1,0 +1,18 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main impliments the Employees class for functionality
+
+file:
+    person.h, person.cpp, employee.h, employee.cpp, hourlyEmployee.h, hourlyEmployee.cpp,
+    salaryEmployee.h, salaryEmployee.cpp, employees.h, employees.cpp, read.cpp
+    
+function:
+    declareations for the the 4 class
+description:
+    declares functions and impliments the classes to make an aplication.
+
+
+Testing: Testing has uncovered several problems relating to incorrect use of pointers. Hopefully I can get the aplication working. There are also errors with my output stream formatting that I have yet to work out.

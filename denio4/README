@@ -1,0 +1,24 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main tests the sortedList class for functionality
+
+file:
+    sortedList.h
+    
+function:
+    declareations for the sortedList class
+description:
+    declares functions and overloaded operators
+
+file:
+    sortedList.h
+function:
+    contains the logic to create and initualize  objects of the sortedList class
+description:
+    sortedLists can be created, ascending and decending, using a linked structure.
+    
+
+Testing: I am curently having issues with the traverse function as well as the removeDuplicates function.

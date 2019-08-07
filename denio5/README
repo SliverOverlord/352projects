@@ -1,0 +1,24 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main tests the graph class for functionality
+
+file:
+    graph.h
+    
+function:
+    declareations for the graph class
+description:
+    declares functions and overloaded operators
+
+file:
+    graph.h
+function:
+    contains the logic to create and initualize  objects of the graph class
+description:
+    graphs can be created, they can be directed or undirected. graph edges can be weighted or un weighted.
+    
+
+Testing: It creates vertex objects, deletes them, is empty and is full works, I havent had the chance to test everything and there are still quite a few things that dont work yet. It will dump the vertex names but not the edges although its close. 

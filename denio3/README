@@ -1,0 +1,25 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main tests the Array class for functionality
+
+file:
+    Array.h
+    exception.h
+function:
+    declareations for the Array  and exception class
+description:
+    declares functions and overloaded operators
+
+file:
+    Array.cpp
+    exception.cpp
+function:
+    contains the logic to create and initualize Array objects and define exceptions
+description:
+    Arrays can be created, added, subtracted, output and other operations 
+    such as <,>,<=, >=, ==, =.
+
+Testing: Incomplete. There seems to be a problem with my resize function and it is causing the out of range exception to throw whenever the resize is used thus causing a core dump :( 

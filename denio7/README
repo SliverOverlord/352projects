@@ -1,0 +1,17 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main impliments the hashTable class
+
+file:
+    main.cpp, hashList.h, hashTable.h, constants.h symbol.h, symbol.cpp
+    
+function:
+    declareations for the the classes
+description:
+    declares functions and impliments the classes to make an aplication using a hashTable.
+
+
+Testing: There seems to be somthing wrong with the collision detection function I am not getting any collisions recorded. 

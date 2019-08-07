@@ -1,0 +1,25 @@
+file: main.cpp
+    main program
+function:
+    main
+description:
+    The main tests the date class for functionality
+
+file:
+    date.h
+    exception.h
+function:
+    declareations for the date class and exception class
+description:
+    declares functions and overloaded operators
+
+file:
+    date.cpp
+    exception.cpp
+function:
+    contains the logic to create and initualize date objects and define exceptions
+description:
+    dates can be created, added, subtracted, output and other operations 
+    such as <,>,<=, >=, ==, =.
+
+Testing: There are lots of known bugs at this time. The Exception class throws exceptions but they are not caught by the catch block. The mathematic operaters are not complete, increment and decriment are not complete. 

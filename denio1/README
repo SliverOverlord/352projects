@@ -1,0 +1,24 @@
+file: main.cpp
+    premade test program
+function:
+    main
+description:
+    The main tests the fraction class for functionality
+
+file:
+    fraction.h
+function:
+    declareations for the fraction class
+description:
+    declares functions and overloaded operators
+
+file:
+    fraction.cpp
+function:
+    contains the logic to create and initualize fraction objects
+description:
+    fractions can be created, added, subtracted, output and other mathematical operations 
+    such as *, /, <,>,<=, >=, ==, =.
+
+Testing: I have run many tests for input and run the premade test from the main program 
+    supplied for testing. There are no known bugs at this time.
